@@ -21,10 +21,8 @@ You should add your name to the name of the file when you save your work. This c
 
 The preferred method is to use Github on your computer to push, pull and update your work. 
 
-### Method 2: The web way
-
-
-If you're uncomfortable with Github Desktop and the whole idea of version control, you don't have to use it. Instead, you can just use the Web interface from Github to get and store your homework. 
-
-
-## The git way
+* Open Github Desktop
+* Choose "Add repository" from the file menu if it's not already shown as the "Current repository". Choose the "Fetch origin" button just to make sure you have all of the updates that might have been made online. 
+* At the bottom of the window, there is a box for "Summary (required)" -- this just tells you which version of your repo it is. It's like a name for this version. It might be "Filter homework" or "updated replication project"
+* Then "commit to main"
+* Then make sure to press the button at the top called "Push orig
