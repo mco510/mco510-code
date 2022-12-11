@@ -1,9 +1,6 @@
 # Using github to store and submit your homework
 
 
-It would be great if you got used to using Github and git to save your work, which lets you work backwards whenever there's a problem and allows for collaboration. But some people don't want to do that, which is fine. 
-
-The only caveat is that it's possible for things to get mis-matched if you combine these two methods, so pick one and stick with it. If you change your mind. 
 
 ## One-time setup
 
@@ -16,6 +13,10 @@ When you open the link from homework, there will be a button on the screen that 
 ## Submitting your work 
 
 You should add your name to the name of the file when you save your work. This can be done either on your computer or here on Github. But you'll have to rename it. 
+
+It would be great if you got used to using Github and git to save your work, which lets you work backwards whenever there's a problem and allows for collaboration. But some people don't want to do that, which is fine. 
+
+The only caveat is that it's possible for things to get mis-matched if you combine these two methods, so pick one and stick with it. If you change your mind. 
 
 ### Method 1: Preferred way
 
